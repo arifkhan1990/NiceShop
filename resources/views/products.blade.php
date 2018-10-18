@@ -3,12 +3,9 @@
 @section('title', 'Products')
 
 @section('extra-css')
-<<<<<<< HEAD
 
-=======
 <link rel="stylesheet" href="{{ asset('css/plugins/dataTables/jquery.dataTables.min.css') }}">
 <link rel="stylesheet" href="{{ asset('css/colorbox.css') }}">
->>>>>>> 025b9d0391f1f3d8b71ad8a4331585ccc063991f
 @endsection
 
 @section('content')
@@ -41,7 +38,7 @@
             <li><a href="#">$2500+</a></li>
         </ul>
     </div> <!-- end sidebar -->
-<<<<<<< HEAD
+
     <div>
         <h1 class="stylish-heading">Laptops</h1>
         <div class="products text-center">
@@ -131,7 +128,7 @@
             </div>
         </div> <!-- end products -->
     </div>
-=======
+
     <div class="products">
         <div class="product">
             <a href="#"><img src="/img/macbook-pro.png" alt="product"></a>
@@ -218,7 +215,7 @@
             <div class="product-price">$2499.99</div>
         </div>
     </div> <!-- end products -->
->>>>>>> 025b9d0391f1f3d8b71ad8a4331585ccc063991f
+
 </div>
 
 

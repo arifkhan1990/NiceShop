@@ -44,12 +44,16 @@
                 <div class="spacer"></div>
                 <h2>Payment Details</h2>
                 <div class="form-group">
-                    <label for="name">Name</label>
-                    <input type="text" class="form-control" id="name" name="name" value="">
+                    <label for="name_on_card">Name on Card</label>
+                    <input type="text" class="form-control" id="name_on_card" name="name_on_card" value="">
                 </div>
                 <div class="form-group">
                     <label for="address">Address</label>
                     <input type="text" class="form-control" id="address" name="address" value="">
+                </div>
+                <div class="form-group">
+                    <label for="cc-number">Credit Card Number</label>
+                    <input type="text" class="form-control" id="cc-number" name="cc-number" value="">
                 </div>
                 <div class="half-form">
                     <div class="form-group">
@@ -62,7 +66,7 @@
                     </div>
                 </div> <!-- end half-form -->
                 <div class="spacer"></div>
-                <input type="submit" class="button-primary full-width" value="Complete Order">
+                <button type="submit" class="button-primary full-width">Complete Order</button>
             </form>
         </div>
         <div class="checkout-table-container">
@@ -122,13 +126,6 @@
                     <span class="checkout-totals-total">$8474.97</span>
                 </div>
             </div> <!-- end checkout-totals -->
-            <a href="#" class="have-code">Have a Code?</a>
-            <div class="have-code-container">
-                <form action="#">
-                    <input type="text">
-                    <input type="submit" class="button" value="Apply">
-                </form>
-            </div>
         </div>
     </div> <!-- end checkout-section -->
 </div>

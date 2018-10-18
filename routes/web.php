@@ -11,12 +11,9 @@
 |
 */
 
-Route::view('/', 'main');
-Route::view('/products', 'products');
-<<<<<<< HEAD
-Route::view('/product', 'product');
+Route::get('/', 'LandingPageController@index')->name('landing-page');;
+Route::get('/shop','ShopController@index')->name('shop.index');
+Route::get('/shop/{product}','ShopController@show')->name('shop.show');
 Route::view('/cart','cart');
 Route::view('/checkout','checkout');
 Route::view('/thankyou','thankyou');
-=======
->>>>>>> 025b9d0391f1f3d8b71ad8a4331585ccc063991f

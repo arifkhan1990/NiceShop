@@ -15,4 +15,4 @@ mix.js('resources/js/app.js', 'public/js')
     .sass('resources/sass/app.scss', 'public/css');
 .sass('resources/assets/sass/responsive.scss', 'public/css')
     .sourceMaps()
-    .browserSync('playground-laravel-ecommerce.dev');
+    .browserSync('laravel-ecommerce-example.test');

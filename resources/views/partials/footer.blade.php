@@ -4,11 +4,8 @@
         <ul>
             <li>Follow Me: </li>
             <li><a href="https://andremadarang.com"><i class="fa fa-globe"></i></a></li>
-<<<<<<< HEAD
             <li><a href="https://www.youtube.com/drehimself"><i class="fa fa-youtube"></i></a></li>
-=======
             <li><a href="https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ"><i class="fa fa-youtube"></i></a></li>
->>>>>>> 025b9d0391f1f3d8b71ad8a4331585ccc063991f
             <li><a href="https://github.com/drehimself"><i class="fa fa-github"></i></a></li>
             <li><a href="https://twitter.com/drehimself"><i class="fa fa-twitter"></i></a></li>
         </ul>
