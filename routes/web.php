@@ -13,7 +13,10 @@
 
 Route::view('/', 'main');
 Route::view('/products', 'products');
+<<<<<<< HEAD
 Route::view('/product', 'product');
 Route::view('/cart','cart');
 Route::view('/checkout','checkout');
 Route::view('/thankyou','thankyou');
+=======
+>>>>>>> 025b9d0391f1f3d8b71ad8a4331585ccc063991f
