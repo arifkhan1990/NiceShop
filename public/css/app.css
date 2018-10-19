@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> 01bd6ddef302ba34fbd0418ecb4b5ce1f15c5f07
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -101,10 +98,6 @@ video {
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
-<<<<<<< HEAD
-
-=======
->>>>>>> 01bd6ddef302ba34fbd0418ecb4b5ce1f15c5f07
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -126,8 +119,6 @@ section {
 
 body {
     line-height: 1;
-<<<<<<< HEAD
-
     menu,
     nav,
     section {
@@ -464,8 +455,6 @@ body {
     .footer-content a {
         color: #e9e9e9;
     }
-
-=======
 menu,
 nav,
 section {
@@ -521,7 +510,6 @@ html {
 *,
 *:before,
 *:after {
->>>>>>> 01bd6ddef302ba34fbd0418ecb4b5ce1f15c5f07
     -webkit-box-sizing: inherit;
     box-sizing: inherit;
 }
@@ -534,9 +522,7 @@ a {
 a:visited {
     color: #212121;
 }
-
-<<<<<<< HEAD
-=======
+    
 h1,
 h2 {
     font-family: 'Montserrat', Arial, sans-serif;
@@ -810,7 +796,6 @@ a:visited {
   color: #212121;
 }
 
->>>>>>> 01bd6ddef302ba34fbd0418ecb4b5ce1f15c5f07
 a:hover {
     color: #878787;
 }
