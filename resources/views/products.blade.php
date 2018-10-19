@@ -38,10 +38,7 @@
             <li><a href="#">$2500+</a></li>
         </ul>
     </div> <!-- end sidebar -->
-<<<<<<< HEAD
 
-=======
->>>>>>> 01bd6ddef302ba34fbd0418ecb4b5ce1f15c5f07
     <div>
         <h1 class="stylish-heading">Laptops</h1>
         <div class="products text-center">
@@ -218,10 +215,6 @@
             <div class="product-price">$2499.99</div>
         </div>
     </div> <!-- end products -->
-<<<<<<< HEAD
-
-=======
->>>>>>> 01bd6ddef302ba34fbd0418ecb4b5ce1f15c5f07
 </div>
 
 
