@@ -215,7 +215,6 @@
             <div class="product-price">$2499.99</div>
         </div>
     </div> <!-- end products -->
-
 </div>
 
 

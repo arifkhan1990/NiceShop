@@ -25,18 +25,15 @@
     @yield('extra-css')
 </head>
 
-
 <body class="@yield('body-class','')">
 
-    <body>
-        @include('partials.nav')
+    @include('partials.nav')
 
-        @yield('content')
+    @yield('content')
 
-        @include('partials.footer')
+    @include('partials.footer')
 
-        @yield('extra-js')
-
-    </body>
+    @yield('extra-js')
+</body>
 
 </html>
