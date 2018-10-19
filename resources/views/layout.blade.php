@@ -25,15 +25,11 @@
     @yield('extra-css')
 </head>
 
-<<<<<<< HEAD
-
 <body class="@yield('body-class','')">
-=======
 <body class="@yield('body-class','')">
 <body>
 
     @include('partials.nav')
->>>>>>> 01bd6ddef302ba34fbd0418ecb4b5ce1f15c5f07
 
     <body>
         @include('partials.nav')
