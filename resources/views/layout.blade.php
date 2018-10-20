@@ -33,6 +33,7 @@
 
     @include('partials.footer')
 
+
     @yield('extra-js')
 </body>
 
